@@ -1,2 +1,5 @@
-# python-backup-alioss
-python3.8上传指定后缀备份文件到oss
+# 环境
+python3.8
+
+# 有啥用
+没啥用，代码还写得贼辣鸡，就是上传指定后缀的文件到oss
